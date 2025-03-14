@@ -29,3 +29,6 @@ etcdctl put key1 "value1"
 ```sh
  etcdctl get key1
  ```
+---
+
+Next: (2. Configure Certificate Authority)[domain-1-cluster-setup/configure-ca.md]
