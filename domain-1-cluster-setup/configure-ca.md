@@ -26,5 +26,5 @@ openssl x509 -in ca.crt -text -noout
 
 ---
 
-Next: [3. Workflow - Issuance of Signed Certificates](certificate-workflow.md) \\
+Next: [3. Workflow - Issuance of Signed Certificates](certificate-workflow.md) <br>
 Previous: [1. Configure etcd Binaries](install-etcd.md)
