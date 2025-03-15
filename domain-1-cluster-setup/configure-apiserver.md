@@ -60,7 +60,7 @@ Documentation=https://github.com/kubernetes/kubernetes
 
 [Service]
 ExecStart=/usr/local/bin/kube-apiserver \
---advertise-address=165.22.212.16 \
+--advertise-address=10.0.0.11 \
 --etcd-cafile=/root/certificates/ca.crt \
 --etcd-certfile=/root/certificates/api-etcd.crt \
 --etcd-keyfile=/root/certificates/api-etcd.key \
