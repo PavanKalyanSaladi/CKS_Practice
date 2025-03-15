@@ -74,3 +74,8 @@ etcdctl --endpoints=https://127.0.0.1:2379 --insecure-skip-tls-verify --insecure
 
 etcdctl --endpoints=https://127.0.0.1:2379 --insecure-skip-tls-verify --insecure-transport=false get course
 ```
+
+---
+
+Next: [5. Practical - Mutual TLS Authentication](mutual-tls.md) <br>
+Previous: [3. Workflow - Issuance of Signed Certificates](certificate-workflow.md)
