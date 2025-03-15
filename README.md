@@ -5,4 +5,4 @@ This Git repository contains all the commands and code files used throughout the
 For this I have used [excloud](https://excloud.in/) for the VM's to build from scratch.
 
 
-Let's Start
+[Let's Start](domain-1-cluster-setup/Readme.md)
