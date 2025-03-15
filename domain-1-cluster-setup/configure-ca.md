@@ -26,5 +26,5 @@ openssl x509 -in ca.crt -text -noout
 
 ---
 
-Next: (1. Configure etcd Binaries)[domain-1-cluster-setup/configure-ca.md]
-Previous: (3. Workflow - Issuance of Signed Certificates)[domain-1-cluster-setup/install-etcd.md]
+Next: [1. Configure etcd Binaries](domain-1-cluster-setup/configure-ca.md)
+Previous: [3. Workflow - Issuance of Signed Certificates](domain-1-cluster-setup/install-etcd.md)
