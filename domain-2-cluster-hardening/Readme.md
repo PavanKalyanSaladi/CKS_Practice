@@ -1,9 +1,5 @@
 # Domain - Core Concepts
 
-The code mentioned in this document are used in the Certified Kubernetes Security Specialist 2025 video course.
-
-
-# Video-Document Mapper
 
 | Sr No | Document Link |
 | ------ | ------ |
