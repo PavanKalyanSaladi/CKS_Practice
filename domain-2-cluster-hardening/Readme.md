@@ -9,12 +9,11 @@
 | 4 | [Overview of Service Accounts][PlDd] |
 | 5 | [Service Accounts - Points to Note][PlDe] |
 | 6 | [Service Account Security][PlDf] |
-| 7 | [Service Account Security][PlDf] |
-| 8 | [Setup Environment for Upgrading Clusters][PlDg] |
-| 9 | [Practical - Upgrade Control Plane Node][PlDh] |
-| 10 | [Practical - Upgrade Worker Node][PlDi] |
-| 11 | [Overview of Projected Volumes][PlDj] |
-| 12 | [Mounting Service Accounts using Projected Volumes][PlDk] |
+| 7 | [Setup Environment for Upgrading Clusters][PlDg] |
+| 8 | [Practical - Upgrade Control Plane Node][PlDh] |
+| 9 | [Practical - Upgrade Worker Node][PlDi] |
+| 10 | [Overview of Projected Volumes][PlDj] |
+| 11 | [Mounting Service Accounts using Projected Volumes][PlDk] |
 
    [PlDa]: <./user-rbac.md>
    [PlDb]: <./role-rolebinding.md>
